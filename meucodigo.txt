@@ -1,3 +1,4 @@
 olá, estou aprendendo a usar comandos no linux, usar o git e github
 não tem sido fácil. hoje, 01/09/2025 faltei o trabalho na unimed. estou pensnado em nunca mais voltar mas isso depende se vou aprender isso aqui lSinto que tem muita coisa em jogo. 
 Olá eu sou uma nova linha
+Nova alteração para teste no branch staging
